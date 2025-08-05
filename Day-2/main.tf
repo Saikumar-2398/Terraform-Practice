@@ -4,5 +4,5 @@ resource "aws_instance" "name" {
     tags = {
       Name = "ec2test"
     }
-  git 
+
 }
